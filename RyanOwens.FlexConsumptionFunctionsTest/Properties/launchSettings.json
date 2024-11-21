@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "RyanOwens.FlexConsumptionFunctionsTest": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7102 --verbose --dotnet-isolated-debug",
+      "launchBrowser": false
+    }
+  }
+}
